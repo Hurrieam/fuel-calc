@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fuel-calc/fuel-calc.vcxproj" Id="39897025-bf8b-4e76-b85e-23abba3af8c9" />
+</Solution>
