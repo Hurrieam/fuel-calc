@@ -18,6 +18,9 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="fuel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\1.csv">
@@ -26,5 +29,10 @@
     <None Include="..\readme.md">
       <Filter>资源文件</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fuel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

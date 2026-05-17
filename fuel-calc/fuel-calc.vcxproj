@@ -139,11 +139,15 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fuel.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\1.csv" />
     <None Include="..\readme.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fuel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
